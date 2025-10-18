@@ -182,13 +182,4 @@ https://github.com/digital-cinema-arts/Muse-Analysis-Tools/wiki/Example-Plots
 
 ---------------------------------------------------------------------
 
-#### Donations
-
-https://paypal.me/vinyasakramayoga?locale.x=en_US
-
-If you would like to support this project, to help to contribute to disabled folks and to help youth gain access to yoga (in the Olympia, WA area) please send your kind donations to this paypal account
-
-
-:droplet:
-
 
